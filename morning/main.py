@@ -15,9 +15,9 @@ today = datetime.now() + timedelta(hours=8)
 # city = os.getenv('CITY')
 # birthday = os.getenv('BIRTHDAY')
 
-app_id = "wx544ec4a54960c076"
-app_secret = "ee72fbfb4344ffc72f8f1da7d7050591"
-user_ids = ["og-T46SIKTXvBhQsxtQpYjCxbHAg"]
+app_id = ""
+app_secret = ""
+user_ids = [""]
 template_id = "SY0g85ucsHOjSwCsatTUs3IL6-x0G1z3K4x29SrN6Q8"
 city = '广州'
 
